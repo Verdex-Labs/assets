@@ -1,0 +1,1 @@
+# VerdeX Assets Info

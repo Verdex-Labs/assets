@@ -1,0 +1,47 @@
+{
+  "name": "Algorand Token List",
+  "timestamp": "2022-03-22T07:15:57.605Z",
+  "keywords": ["algorand", "default"],
+  "tokens": [
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "id": 31566704,
+      "decimals": 6,
+      "url": "https://www.centre.io/usdc",
+      "isVerified": true
+    },
+    {
+      "name": "Tether USDt",
+      "symbol": "USDt",
+      "id": 312769,
+      "decimals": 6,
+      "url": "tether.to",
+      "isVerified": true
+    },
+    {
+      "name": "STBL",
+      "symbol": "STBL",
+      "id": 465865291,
+      "decimals": 6,
+      "url": "https://algofi.org/",
+      "isVerified": true
+    },
+    {
+      "name": "goBTC",
+      "symbol": "goBTC",
+      "id": 386192725,
+      "decimals": 8,
+      "url": "https://algomint.io/",
+      "isVerified": true
+    },
+    {
+      "name": "goETH",
+      "symbol": "goETH",
+      "id": 386195940,
+      "decimals": 8,
+      "url": "https://algomint.io/",
+      "isVerified": true
+    }
+  ]
+}

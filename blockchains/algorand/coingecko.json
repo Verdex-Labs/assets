@@ -1,0 +1,96 @@
+{
+  "name": "CoinGecko",
+  "timestamp": "2022-03-22T07:15:57.605Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 5
+  },
+  "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "keywords": [
+    "defi"
+  ],
+  "tokens": [
+    {
+      "name": "Xfinite Entertainment Token",
+      "symbol": "XET",
+      "id": 283820866,
+      "decimals": 9,
+      "url": "https://www.xfinite.io/",
+      "logoURI": "https://assets.coingecko.com/coins/images/18422/small/Xfinite_icon_%28black%29.png?1631856864",
+      "isVerified": true
+    },
+    {
+      "name": "Meld Gold",
+      "symbol": "MCAU",
+      "id": 6547014,
+      "decimals": 5,
+      "url": "https://meld.gold/",
+      "logoURI": "https://assets.coingecko.com/coins/images/13149/small/meldgold.png?1605683396",
+      "isVerified": true
+    },
+    {
+      "name": "PlanetWatch",
+      "symbol": "PLANETS",
+      "id": 27165954,
+      "decimals": 6,
+      "url": "https://planetwatch.io/",
+      "logoURI": "https://assets.coingecko.com/coins/images/16127/small/cwCG_U8M_400x400.png?1623045098",
+      "isVerified": true
+    },
+    {
+      "name": "Smile Coin",
+      "symbol": "SMILE",
+      "id": 300208676,
+      "decimals": 6,
+      "url": "https://smilecoin.us/",
+      "logoURI": "https://assets.coingecko.com/coins/images/18520/small/wvOvUluD_400x400.jpg?1647425601",
+      "isVerified": true
+    },
+    {
+      "name": "AlgoGems",
+      "symbol": "GEMS",
+      "id": 230946361,
+      "decimals": 6,
+      "url": "https://www.algogems.io/",
+      "logoURI": "https://assets.coingecko.com/coins/images/19978/small/logo.f3a6bd24.png?1636355493",
+      "isVerified": true
+    },
+    {
+      "name": "Zone",
+      "symbol": "ZONE",
+      "id": 444035862,
+      "decimals": 6,
+      "url": "https://zone.game/",
+      "logoURI": "https://assets.coingecko.com/coins/images/23526/small/51ZrRDB1_400x400.jpg?1644322725",
+      "isVerified": true
+    },
+    {
+      "name": "Kaafila",
+      "symbol": "KFL",
+      "id": 239444645,
+      "decimals": 0,
+      "url": "https://kaafila.org/",
+      "logoURI": "https://assets.coingecko.com/coins/images/23670/small/Kaafila--logo.png?1644994073",
+      "isVerified": true
+    },
+    {
+      "name": "Buying.com",
+      "symbol": "BUY",
+      "id": 137020565,
+      "decimals": 2,
+      "url": "https://buying.com/",
+      "logoURI": "https://assets.coingecko.com/coins/images/5290/small/buying_200x200.png?1628587856",
+      "isVerified": true
+    },
+    {
+      "name": "Choice Coin",
+      "symbol": "CHOICE",
+      "id": 297995609,
+      "decimals": 2,
+      "url": "https://buying.com/",
+      "logoURI": "https://assets.coingecko.com/coins/images/23770/small/IMG_2021.jpg?1645425735",
+      "isVerified": true
+    }
+  ]
+}
